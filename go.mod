@@ -1,4 +1,4 @@
-module github.com/chzyer/readline
+module github.com/pedroalbanese/readline
 
 go 1.15
 
@@ -7,4 +7,4 @@ require (
 	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5
 )
 
-require github.com/chzyer/logex v1.2.1
+require github.com/pedroalbanese/logex
